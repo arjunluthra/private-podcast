@@ -4,7 +4,7 @@
     <title>The AI Daily Brief</title>
     <description>Ad-free editions of The AI Daily Brief</description>
     <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
-    <lastBuildDate>Wed, 30 Sep 2026 04:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:20:01 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml" rel="self" type="application/rss+xml" />
     <language>en</language>
     <itunes:author>Nathaniel Whittemore</itunes:author>
@@ -15,9 +15,19 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:045f0271d6faa2db357f36b7f9621aa5972175bf6280b85ffc44d7ba0c3ce4e6</guid>
       <pubDate>Tue, 29 Sep 2026 18:39:47 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/dfd902f7-6fdf-4800-a1cb-468638fcd7da/media.mp3" length="32291148" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/601204d7-0c1a-4813-b93b-cf913f4710d6/media.mp3" length="32291148" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>2189</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-10-01 164200 - Gemini 4 Argon, Sonnet 5.5 and What Matters with AI Models</title>
+      <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
+      <guid isPermaLink="false">urn:podcast-ad-free:bb6ece554fb03d7905cd6b82899641fd6d144afbf8d5ae37d9150abc226fb722</guid>
+      <pubDate>Thu, 01 Oct 2026 20:42:00 GMT</pubDate>
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/f2daac08-0cb3-43d6-a1f6-5a6cca03820a/media.mp3" length="23799334" type="audio/mpeg" />
+      <itunes:author>Nathaniel Whittemore</itunes:author>
+      <itunes:duration>1537</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
