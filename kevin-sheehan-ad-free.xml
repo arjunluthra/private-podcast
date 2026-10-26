@@ -4,7 +4,7 @@
     <title>Kevin Sheehan Podcast</title>
     <description>Ad-free editions of The Kevin Sheehan Show</description>
     <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
-    <lastBuildDate>Sat, 24 Oct 2026 17:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:44:20 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml" rel="self" type="application/rss+xml" />
     <language>en</language>
     <itunes:author>The Kevin Sheehan Show</itunes:author>
@@ -37,7 +37,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/bf4303ae-2d68-49c1-b723-1c88b37edc78/media.mp3</guid>
       <pubDate>Wed, 02 Sep 2026 23:29:44 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/0119ebaa-ccc9-4a50-b0e5-b5f987e04e15/media.mp3" length="58263291" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/dcea8cc1-ce9d-4397-8535-cf83a4ac7cee/media.mp3" length="58263291" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4330</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -49,7 +49,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/a817d3a8-99bb-4db8-8e93-19e594f10a37/media.mp3</guid>
       <pubDate>Thu, 03 Sep 2026 23:22:49 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/b18a4d8d-fbbc-4acf-bd08-1dd728821a43/media.mp3" length="52005462" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/74fa5b93-b58c-413c-84ac-1e24fed72013/media.mp3" length="52005462" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3929</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -61,7 +61,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/6beda768-9509-49a7-91d9-fdb163e89b88/media.mp3</guid>
       <pubDate>Fri, 04 Sep 2026 23:30:13 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/f1aa4b05-e07f-4510-91ec-ed36452157d7/media.mp3" length="56596094" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/d04185b4-0b6e-487f-b9ba-60782de0946f/media.mp3" length="56596094" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4208</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -73,7 +73,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/d283dd35-bd45-40c9-81a6-92850b8255e8/media.mp3</guid>
       <pubDate>Sun, 06 Sep 2026 22:08:07 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/2c96dea5-f947-4cfd-8ed5-31968ca6cac3/media.mp3" length="70731969" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/85e1627f-a25a-4821-9806-80bdf80f347a/media.mp3" length="70731969" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>5407</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -85,7 +85,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/a547fd50-882e-42aa-9042-6e826ce45cb8/media.mp3</guid>
       <pubDate>Wed, 09 Sep 2026 00:01:39 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/ca69a87d-35aa-49e4-99fb-43f25f9d757c/media.mp3" length="55842428" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/ff97eee6-f089-488d-9193-b4ac3293d787/media.mp3" length="55842428" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4124</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -97,7 +97,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/85a4b598-795e-4b4c-b65f-02ac79d96720/media.mp3</guid>
       <pubDate>Wed, 09 Sep 2026 23:11:36 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/2c362a2f-dc5b-4eee-a3fa-9ade317a57ab/media.mp3" length="38365654" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/59a0c00f-e9f5-4709-9c16-471b8d5aeaca/media.mp3" length="38365654" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3030</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -109,7 +109,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/c3bc8c78-4d26-46af-a46b-e30be8259b36/media.mp3</guid>
       <pubDate>Thu, 10 Sep 2026 18:51:13 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/58a5d07b-bf0f-4382-8eff-1d4ceb64e135/media.mp3" length="49594856" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/469924d2-0cdb-47b0-9563-5d0487770cf4/media.mp3" length="49594856" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3706</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -121,7 +121,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/79548db4-c51e-4e2d-ad1c-dcfc68023934/media.mp3</guid>
       <pubDate>Fri, 11 Sep 2026 20:44:23 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/f081e3e1-85ef-4400-a472-c96934af2710/media.mp3" length="44561527" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/e7fc4236-895a-43bf-93e3-488eb13c8c0d/media.mp3" length="44561527" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3292</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -133,7 +133,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/12921501-4995-4dd7-984e-94fbc9ff3a3a/media.mp3</guid>
       <pubDate>Mon, 14 Sep 2026 03:16:39 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/b7163c1e-008d-41a7-84bb-50ffc5c3d72b/media.mp3" length="34350230" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/37472481-b1b5-492d-a255-525e0822151b/media.mp3" length="34350230" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>2509</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -145,7 +145,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/cbeb4782-32a5-4f8e-bbec-df5c54d3fb55/media.mp3</guid>
       <pubDate>Tue, 15 Sep 2026 00:26:16 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/d8506726-a68b-458d-91be-c6ab138ae90e/media.mp3" length="51774762" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/7556159e-9c50-4767-b6c5-d14994a44139/media.mp3" length="51774762" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3707</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -157,7 +157,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/5200e357-d3e8-4cb5-a3f0-0bbb4fa974fb/media.mp3</guid>
       <pubDate>Tue, 15 Sep 2026 21:36:56 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/2faca9b0-b728-48fa-b8cc-0a5fdcdfdcae/media.mp3" length="61596936" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/f2815aef-1f4f-454f-831c-a9c05e97d6d9/media.mp3" length="61596936" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4592</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -169,7 +169,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/3d48d78e-4e36-4e19-bab6-0e3e1cd37725/media.mp3</guid>
       <pubDate>Thu, 17 Sep 2026 01:26:19 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/26a8bfe8-d24b-4397-ada6-4f3bd6008e98/media.mp3" length="64026127" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/364f3a9c-ebb6-4cec-aa71-6c5a683087c5/media.mp3" length="64026127" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4868</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -181,7 +181,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/4c6a5253-02b3-4d0a-8695-0cda674a0e5b/media.mp3</guid>
       <pubDate>Thu, 17 Sep 2026 21:08:21 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/0437270e-d9b6-4fca-9364-c5d8827aaae2/media.mp3" length="59596740" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/6283fd6e-9e68-419d-a7d5-dbdcaa3cd86a/media.mp3" length="59596740" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4505</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -193,7 +193,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/dd79bbe5-d161-48ad-9513-e30c7724ff96/media.mp3</guid>
       <pubDate>Fri, 18 Sep 2026 22:40:30 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/911744f0-8749-409e-89b9-5de9404011de/media.mp3" length="66179746" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/5ed2d1c8-e3cc-4962-bf7b-22edb24c7b5d/media.mp3" length="66179746" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4836</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -205,7 +205,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:8c464be58dc2b96c8da06be90deecc621f104b595fe2824ef12c84ebe1cea2bb</guid>
       <pubDate>Mon, 21 Sep 2026 03:27:00 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/9ff930a7-e3e0-4f3b-8b8f-c61b2cd0ebda/media.mp3" length="32873523" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/03dcb7f3-1cad-41ec-83ed-279699397501/media.mp3" length="32873523" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>2409</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -217,7 +217,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:cbb865336037fc98a2f112dad84ad08ac41ccfc72868281c7c7ca8cb628f8ef9</guid>
       <pubDate>Tue, 22 Sep 2026 00:28:33 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/2881bcda-56de-450e-b505-8dbd1295317c/media.mp3" length="63012957" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/41ac3f9c-b4a4-46b8-84fd-7c0077d43eb2/media.mp3" length="63012957" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4585</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -229,7 +229,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:785daeaf379670fc2077034f28f76c5ccef158fe9e9d1c5286e3b7265f2c483c</guid>
       <pubDate>Tue, 22 Sep 2026 23:39:49 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/1f1c3777-0f5f-4021-839a-1495e1a6b7c4/media.mp3" length="66245562" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/56d6d758-deeb-4b97-b887-4f0f2c3ccd19/media.mp3" length="66245562" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>5030</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -241,7 +241,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:fe9d837b65440c59078892e8b879d48becfa6a2df13e0e4d4f3334c4675d8cce</guid>
       <pubDate>Thu, 24 Sep 2026 00:45:02 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/056bc1f4-e3fc-4cdf-96c9-39594287e849/media.mp3" length="73201928" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/e4b8bdce-88ab-4078-b751-5aaf844513b1/media.mp3" length="73201928" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>5778</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -253,7 +253,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:6c9636bf7a157dbbd6aeb1e79e0247b000b191652e1a764dd92e5dfbde18ac79</guid>
       <pubDate>Thu, 24 Sep 2026 23:40:37 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/3fdcc118-65b4-442a-a6ec-b4b7616d9fa0/media.mp3" length="45961770" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/50e4c520-aa13-4f0b-a17c-d7f5aae9d511/media.mp3" length="45961770" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3497</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -265,7 +265,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:31dcdbed196a650d4247b6f7651ae0ce6f376858d53c29da1277b98b8cade1b1</guid>
       <pubDate>Fri, 25 Sep 2026 23:46:01 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/3204673e-0c64-429f-b171-bb4d0b0dfbba/media.mp3" length="60078785" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/873e1db3-da98-4bc8-be98-a22e6aa7e260/media.mp3" length="60078785" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4446</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -277,7 +277,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:6b5539304f7961f214d5adb3339c51bdf5b174f6b99ba343ccbfc9c31f0eff14</guid>
       <pubDate>Mon, 28 Sep 2026 04:30:02 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/5eff954b-b0f8-4bc4-886b-ebca3019e1aa/media.mp3" length="45393195" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/10edceb2-685e-42b1-9d9c-ff48766f8d48/media.mp3" length="45393195" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3259</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -289,7 +289,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:0f715e6f7b6bad085ccdd1034e0ecff742d477bb645a592f6c3aa37a1c848e03</guid>
       <pubDate>Tue, 29 Sep 2026 01:40:37 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/16330715-0286-4790-a6c4-04c8f5719529/media.mp3" length="55828023" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/d365d732-594f-4760-886d-434dbde7c90b/media.mp3" length="55828023" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4038</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -301,7 +301,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:3d936723204020f226b0e7a8ac95614da84ba4bfa87327787bbc9d06427b6c4f</guid>
       <pubDate>Wed, 30 Sep 2026 03:43:04 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/ecfe82e7-b4b3-4f1e-a14e-37e627f2a60e/media.mp3" length="65075780" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/2c021559-4046-46db-aaa2-e0dfea986ba4/media.mp3" length="65075780" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4831</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -313,7 +313,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:5c4cd818a66e1104552738cdf1513f01e79c40b19f2d187c28c43b964025c31c</guid>
       <pubDate>Thu, 01 Oct 2026 00:08:09 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/e8748860-cf8e-4efb-8664-87491ee18e95/media.mp3" length="55768845" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/21b67421-dbfa-48c1-afce-37a607e8b8fb/media.mp3" length="55768845" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4339</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -325,7 +325,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:115938d07fc4714258b38f42dc805e7c93eacadc7cdb00312c6f7dd5ea52832b</guid>
       <pubDate>Fri, 02 Oct 2026 00:40:40 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/f10a7bd5-4347-425d-a0fc-cc5e95110733/media.mp3" length="53702654" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/944b14de-7cf6-4fa3-8e08-cf5c4d648f6e/media.mp3" length="53702654" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4020</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -337,7 +337,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:80d9c83b60fb4505ca96c5f3bb9d4f94490b2f72feb78c94fcee9228bc07574a</guid>
       <pubDate>Fri, 02 Oct 2026 20:25:09 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/a6ca4fa9-184c-4042-8703-dbc239d61bcf/media.mp3" length="43948211" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/aac1a143-bcbe-425c-912f-447294f82216/media.mp3" length="43948211" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3283</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -349,7 +349,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:6b6b068b888bb082d243282dc4d834fb66eef079fa96bc8ae01f9688bf31b5a5</guid>
       <pubDate>Sun, 04 Oct 2026 20:35:18 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/d7cee9d4-9702-4e9c-8eec-062bb921a210/media.mp3" length="44384081" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/bef130ef-5dd1-45b3-8fca-d0151daae8f2/media.mp3" length="44384081" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3247</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -361,7 +361,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:157b823f3f6aed6dda370fc9f10bb73ba877d6a44f72517f58d5615b1f3df6b4</guid>
       <pubDate>Tue, 06 Oct 2026 00:59:24 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/c5eaeed8-2c80-4b5c-80e4-c6b613815a83/media.mp3" length="47345814" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/25a41998-de1c-4b4f-b45d-d16204f95048/media.mp3" length="47345814" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3693</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -373,7 +373,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:4aa3dfe811cf5b40d579ab8f6b46bba6a41302be2ab615e810fbd067f056f43d</guid>
       <pubDate>Tue, 06 Oct 2026 23:26:30 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/e3a8c95c-db48-444d-b534-ff5a98791457/media.mp3" length="64071993" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/f767efa5-9332-4e50-8ceb-aeeca504606d/media.mp3" length="64071993" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>5058</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -385,7 +385,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:720f967dadc7dffab4c60f6a044d488c1a0904bc309d8fbf4c8f5115e92ad56d</guid>
       <pubDate>Wed, 07 Oct 2026 23:25:34 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/3e6c981c-eb11-4464-844d-3f206cef0adf/media.mp3" length="58191787" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/64b2d6eb-18c9-47e7-b9d6-487dce2fe993/media.mp3" length="58191787" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4605</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -397,7 +397,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:daef784cc80775d63e2f6fa7adabc8c896d0fe1645a3eca00dcecaceaec3aa4f</guid>
       <pubDate>Thu, 08 Oct 2026 20:36:14 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/e830bff6-2821-49fa-b433-d4facf9c9f93/media.mp3" length="58129846" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/e826cadb-0360-4fc5-a5f9-86121bb0ba36/media.mp3" length="58129846" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4419</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -409,7 +409,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:702579b7fad780cbb7d4ba8f5bfece79470bb3a560bbbb59ec043c7a24d73bc6</guid>
       <pubDate>Fri, 09 Oct 2026 20:08:23 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/fea317e9-f1d0-42af-ba1f-72e67d32f9ba/media.mp3" length="50719329" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/8501f729-bc12-4c46-95e1-fc4472839998/media.mp3" length="50719329" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3769</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -421,7 +421,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:ed80c456fbd3dc1a279896cf1444ee8eb04c3b629e8b4d3cdf19bc3e6fe6eb2f</guid>
       <pubDate>Mon, 12 Oct 2026 02:57:36 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/c7e07491-320a-4251-9b9b-599779aa55f2/media.mp3" length="45269386" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/ae1a21f3-9bfb-4f2b-9a63-26c15939f257/media.mp3" length="45269386" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3376</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -433,7 +433,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:3259f47085b8bc319a476cccbb63cb334ceb3b352f3275748342588b59e9bc3c</guid>
       <pubDate>Tue, 13 Oct 2026 02:03:21 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/9f541acc-2868-4ff3-bc3b-0608560c5459/media.mp3" length="74320504" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/94897118-e526-4bc9-8728-c9a2e011d701/media.mp3" length="74320504" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>5819</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -445,7 +445,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:7b68dda808c34d33a79c4b927af27927505a11e795782aa9122681c6a0aff0bf</guid>
       <pubDate>Tue, 13 Oct 2026 21:10:27 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/da70e344-ffa5-48ce-bace-01cab488b6a8/media.mp3" length="44635229" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/5fe6622e-1b3e-4aa0-b711-2597d0c139e8/media.mp3" length="44635229" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3361</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -457,7 +457,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:3d96a29541ee03aa4b7cbb1d3f99eaedbeb31b6351d30c5beb92b6406e597269</guid>
       <pubDate>Thu, 15 Oct 2026 01:20:11 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/da39deca-ecba-446d-9258-35e30f175a16/media.mp3" length="75672551" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/970875b2-a6c9-4be9-87ce-f60189c34f6b/media.mp3" length="75672551" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>5999</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -469,7 +469,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:63755563e7142c57178d478bb7e10ba7469212a34cb1bae98a0ce35c31b34a44</guid>
       <pubDate>Thu, 15 Oct 2026 23:32:29 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/b2cec4ec-441d-462f-a1bc-338913fd4f56/media.mp3" length="67380994" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/e7a9033c-e4f5-4d6a-a7f7-3acb2bc3b489/media.mp3" length="67380994" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4992</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -481,7 +481,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:bd5a165af126615fc543ac1bed339770e3a7a5571239ba911fbe0a549d634b8b</guid>
       <pubDate>Sat, 17 Oct 2026 00:49:09 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/754ab29a-c41c-4ec4-a15a-59434cd86c27/media.mp3" length="47839193" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/47843f13-97dd-453d-b2c6-2ce79f6a245b/media.mp3" length="47839193" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3651</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -493,7 +493,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:77c2c1fe31f018aec8472de64dc51b458690d9581e8c319a293c8d21cb611dad</guid>
       <pubDate>Mon, 19 Oct 2026 22:37:51 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/9551bbfc-d14d-43c4-925d-c6e1d2ba814b/media.mp3" length="38605772" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/16e4a18e-b9f2-445e-9646-65bccd3a2ed1/media.mp3" length="38605772" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>2826</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -505,7 +505,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:611d8656a7f05bdeacfc3431e26e551fc5fc3a6fee16f475ec337c856c8fe1c6</guid>
       <pubDate>Tue, 20 Oct 2026 20:18:26 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/49b97550-34a3-4484-8e1c-b7cb83d60fa1/media.mp3" length="57327592" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/99ca5c82-133a-4aac-ac1b-7e9df737c387/media.mp3" length="57327592" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>4283</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -517,7 +517,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:d6d23b5c39de379eeb942043bb83fde085f2abfe058885f54c42ab8c7f9f0d3b</guid>
       <pubDate>Thu, 22 Oct 2026 02:31:20 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/371c281e-aad8-4553-93b0-a2ce04ae2a57/media.mp3" length="66827078" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/81364ca6-025e-4d1d-b01d-38ccac4bfe70/media.mp3" length="66827078" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>5211</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -529,7 +529,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:0875f9896e305c76ca5c7394d0a5bf2d2ad99733facae42ad52b2e169bb8cdae</guid>
       <pubDate>Thu, 22 Oct 2026 18:23:56 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/efd8d662-6422-486c-84fd-9b4865da7654/media.mp3" length="42161959" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/74d0dd28-836f-4514-b3fb-eb3afcde9a84/media.mp3" length="42161959" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
       <itunes:duration>3221</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -541,9 +541,21 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:eca290ec006422c733d45f511a3a990ef46190e166ba2b0eb6696cad4f910c64</guid>
       <pubDate>Sat, 24 Oct 2026 16:16:51 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/58d70d69-a41c-4c54-8061-d9acafa8548b/media.mp3" length="57369678" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/8c333a94-8306-4342-a7a2-f0151fea699d/media.mp3" length="57369678" type="audio/mpeg" />
       <itunes:author>The Kevin Sheehan Show</itunes:author>
-      <itunes:duration>4530</itunes:duration>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-10-26 191320 - Big Win For Giants + John Keim</title>
+      <description>&lt;p&gt;Kevin opened with the Giants big upset win in Houston yesterday. He recapped much of the NFL Sunday before getting to a question about David Blough. John Keim jumped on as well to talk Commanders. Some Wizards too.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Exclusive High Roller bonus designed for bettors who want more firepower for this season. Double your money all the way up to $5000. Minimum deposit $1500. Use my promo code “DCVIP” at https://www.mybookie.ag/signup/?affid=3910.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Get 20% off your first order at www.FastGrowingTrees.com with code [Sheehan].&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Join Thrive Market today during their 25% off Healthy Reset Sale now through September 19th! PLUS get $30 off your first 2 orders when you use my link ThriveMarket.com/sheehan.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Refresh your wardrobe with Quince. Go to www.Quince.com/SHEEHAN for free shipping and 365-day returns. Now available in Canada, too.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Download the app today and use code SHEEHAN to get $150 instantly in Lineups if you win your first $5 Lineup! “PrizePicks. Run Your Game.”&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</description>
+      <itunes:summary>&lt;p&gt;Kevin opened with the Giants big upset win in Houston yesterday. He recapped much of the NFL Sunday before getting to a question about David Blough. John Keim jumped on as well to talk Commanders. Some Wizards too.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Exclusive High Roller bonus designed for bettors who want more firepower for this season. Double your money all the way up to $5000. Minimum deposit $1500. Use my promo code “DCVIP” at https://www.mybookie.ag/signup/?affid=3910.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Get 20% off your first order at www.FastGrowingTrees.com with code [Sheehan].&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Join Thrive Market today during their 25% off Healthy Reset Sale now through September 19th! PLUS get $30 off your first 2 orders when you use my link ThriveMarket.com/sheehan.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Refresh your wardrobe with Quince. Go to www.Quince.com/SHEEHAN for free shipping and 365-day returns. Now available in Canada, too.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Download the app today and use code SHEEHAN to get $150 instantly in Lineups if you win your first $5 Lineup! “PrizePicks. Run Your Game.”&lt;/p&gt;&lt;br/&gt; &lt;p&gt;Hosted by Simplecast, an AdsWizz company. See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for advertising.&lt;/p&gt;</itunes:summary>
+      <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/kevin-sheehan-ad-free.xml</link>
+      <guid isPermaLink="false">urn:podcast-ad-free:99d912e1f712402e2e65ae2dd9a835bcc6357eb4f3a520bb74c167f41a2e2836</guid>
+      <pubDate>Mon, 26 Oct 2026 23:13:20 GMT</pubDate>
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/kevin-sheehan-podcast-ad-free/item/6e085e0b-f975-4c00-954c-6d65459aaa5d/media.mp3" length="57978726" type="audio/mpeg" />
+      <itunes:author>The Kevin Sheehan Show</itunes:author>
+      <itunes:duration>4466</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
