@@ -4,7 +4,7 @@
     <title>The AI Daily Brief</title>
     <description>Ad-free editions of The AI Daily Brief</description>
     <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
-    <lastBuildDate>Wed, 11 Nov 2026 21:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 22:24:02 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml" rel="self" type="application/rss+xml" />
     <language>en</language>
     <itunes:author>Nathaniel Whittemore</itunes:author>
@@ -23,7 +23,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:045f0271d6faa2db357f36b7f9621aa5972175bf6280b85ffc44d7ba0c3ce4e6</guid>
       <pubDate>Tue, 29 Sep 2026 18:39:47 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/d4f2787f-330a-4309-bef2-61b0298b8d32/media.mp3" length="32291148" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/667481cf-56f3-4ed7-9982-8529558302b4/media.mp3" length="32291148" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>2189</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -35,7 +35,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:d024fc05c9ad9971a6eb3fbb3e8066a3723946283f8bd83026bc0bf85dfaeeb2</guid>
       <pubDate>Wed, 30 Sep 2026 18:42:19 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/518cd0d1-f0be-4a0a-bd40-d80e53016513/media.mp3" length="18555503" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/9bec61f6-ab59-4364-821a-98c2133428be/media.mp3" length="18555503" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1197</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -47,7 +47,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:bb6ece554fb03d7905cd6b82899641fd6d144afbf8d5ae37d9150abc226fb722</guid>
       <pubDate>Thu, 01 Oct 2026 20:42:00 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/fc7592bf-2ea7-4f58-ad0e-251b44a86d84/media.mp3" length="23799334" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/2aa7c863-c0d5-406a-a343-c250b28d1462/media.mp3" length="23799334" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1537</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -59,7 +59,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:0baeba620f945fc723ac9a616802dd56ac9653c7578b6b0e456e4c2d2080b4a7</guid>
       <pubDate>Sun, 11 Oct 2026 10:58:13 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/7a20c5dd-880e-4e84-a225-ee2dfd4be764/media.mp3" length="20517387" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/2c3f56a2-06ec-441c-90e2-31ecb2141070/media.mp3" length="20517387" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1340</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -71,7 +71,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:b1e33625a5c6e2237d06ee81cd8ff92f569b8b1fc868798c53fbab2b080a5f50</guid>
       <pubDate>Mon, 12 Oct 2026 14:59:24 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/b9dc3f08-837d-4eb5-989b-cf65436b250c/media.mp3" length="29570526" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/6ebe41ed-20a5-483e-9169-5efd0137c083/media.mp3" length="29570526" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>2115</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -83,7 +83,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:617e1ae7d4c185f561c4535b4cc6c2e37147a6e32f43aaa9518203c4cb687e00</guid>
       <pubDate>Tue, 13 Oct 2026 20:37:58 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/f7bbd24c-5db9-4130-91de-c4e9cf084cff/media.mp3" length="21982106" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/49ce1fd5-d794-4d30-8591-420335fa972e/media.mp3" length="21982106" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1462</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -95,7 +95,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:5b0897c7c3df18fba565341dc24a994271bf684d1a83626640bea79321ceb95b</guid>
       <pubDate>Wed, 14 Oct 2026 19:56:06 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/85927cb6-2492-4e0f-a5d8-d1ed558a84b5/media.mp3" length="24838118" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/fd9fa4c1-c7c5-48a2-860f-c4d907a095f4/media.mp3" length="24838118" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1626</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -107,7 +107,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:78946a6d2d78a1b9346c7afe5f3633e414a969f30e7d5972dcb1504b86fdd731</guid>
       <pubDate>Thu, 15 Oct 2026 22:35:40 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/6073d126-1733-49eb-a1c9-ca277fbd5272/media.mp3" length="24776857" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/ea2412a9-33aa-4bdd-b3b7-466f01f8aa93/media.mp3" length="24776857" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1637</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -119,7 +119,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:62a8ee05b98d947823db2a79d9f57b815262b152a33a9301a8d455a3b4ec1abe</guid>
       <pubDate>Fri, 16 Oct 2026 18:19:09 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/bb7743f8-bce5-411d-a1c4-e3b2e0e4c2de/media.mp3" length="23627456" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/7178132a-8195-4cff-9440-510cc45ab852/media.mp3" length="23627456" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1538</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -131,7 +131,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:4a0a6d0f3aaae47d89e05c29f3550f3af57ddc36afd9feca17b2fd28af931613</guid>
       <pubDate>Sun, 18 Oct 2026 12:03:35 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/2f2097b9-48bd-407d-841d-f57e5b5ee3a9/media.mp3" length="19022372" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/73373e79-1202-40f8-800f-bc62a2f2cfc6/media.mp3" length="19022372" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1244</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -143,7 +143,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:5cf6c8ba96817ee4ddfdf3079580c446e7974e3962ba56cc261a6fa43ac2c0f1</guid>
       <pubDate>Mon, 19 Oct 2026 20:02:07 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/5263bbf6-6b24-4e2c-8f11-55494ddf2d35/media.mp3" length="27340474" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/eeafa4e2-06a3-4b0a-93ed-ca644e917723/media.mp3" length="27340474" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1772</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -155,7 +155,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:385f1b9cf619c3e28966e6add228b227d8f6a9a1b34f2268165c76f1c636c7f0</guid>
       <pubDate>Tue, 20 Oct 2026 20:16:23 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/ca2c12a3-daf1-476a-b5aa-94201a9c4212/media.mp3" length="23077103" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/3beb8e8b-8a72-4ba2-acb9-6e5e532ab607/media.mp3" length="23077103" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1493</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -167,7 +167,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:ec7794f3bc7622e8989c6482c627339dacd3674764540d50e384c3ca806c8440</guid>
       <pubDate>Wed, 21 Oct 2026 20:03:52 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/39827a2a-6b13-4d32-86cf-3cb6780ae5ed/media.mp3" length="22734449" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/6f77965b-9f07-4c2c-a34a-3039b2e34c19/media.mp3" length="22734449" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1475</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -179,7 +179,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:050961370156843fc419a24bfbc5379ccc8c667e109c121ac7602c0b0c29f7ae</guid>
       <pubDate>Thu, 22 Oct 2026 20:15:15 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/f1895003-495f-4f1f-b08e-98e258f77d82/media.mp3" length="23226146" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/cdef5231-bd31-431b-8871-40c621fbe4af/media.mp3" length="23226146" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1489</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -191,7 +191,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:20c9bc81a539cf7102295b6b2f65bb5991ad9841849c10a32250ff650ea8542d</guid>
       <pubDate>Fri, 23 Oct 2026 18:50:38 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/3f87f4c3-15e1-421c-87a4-bd5b3f480e75/media.mp3" length="23803496" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/7b53c868-a9c0-41c7-8c7c-92ffda03fdf1/media.mp3" length="23803496" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1553</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -203,7 +203,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:9bd795ac8039ef102bb3001421b70abd2e17a11c96437e1fa8a9717c91b6ce2c</guid>
       <pubDate>Sun, 25 Oct 2026 11:36:36 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/85cdc1cf-6cfe-4def-9311-5e1c6ffdb41b/media.mp3" length="25932000" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/e548c5cc-730c-49c5-969b-15e61f6c78df/media.mp3" length="25932000" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1702</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -215,7 +215,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:26169b7ef021fce6c6d75ca1a3c571415b5cdc27554ccaf98f4898c9ac32fda0</guid>
       <pubDate>Mon, 26 Oct 2026 14:22:15 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/61136ca7-fd9c-48b1-b191-d4e47d8542db/media.mp3" length="4166245" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/877a7b43-1918-4b15-aa3e-3880771ecbd0/media.mp3" length="4166245" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>285</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -227,7 +227,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:09fea9fe6cb3205ce43f04c86e68f16f794cd77e78b525c88eaf548dc0973955</guid>
       <pubDate>Mon, 26 Oct 2026 19:49:36 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/aed3dd62-df66-4d51-bbf6-d3bac76e4798/media.mp3" length="20464400" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/95381ffc-3aef-4be5-92aa-4e22200dc95c/media.mp3" length="20464400" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1355</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -239,7 +239,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:713db715b17f3eebcb6acc743f9ac0f5d53c45f2fa09b98434cb9122ea849ca9</guid>
       <pubDate>Tue, 27 Oct 2026 21:10:01 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/59885be0-0ac1-41be-b1ae-b9bd05d4681c/media.mp3" length="22303684" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/af521fa6-68be-48db-a6c4-267eae1cec26/media.mp3" length="22303684" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1486</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -251,7 +251,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:8213626416baba9164852f042d8efc4aafeeb597aed57b698529f2664a012747</guid>
       <pubDate>Wed, 28 Oct 2026 20:43:55 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/87ac23c0-c436-4a07-9dec-d2e3cb25659f/media.mp3" length="22343834" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/d3608df0-2cf0-4a9c-bfe3-0695f460c972/media.mp3" length="22343834" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1516</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -263,7 +263,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:5181da237d7e71c1da7d492b6a29425f0720c1cca92ed07c1075d230ca566ed7</guid>
       <pubDate>Thu, 29 Oct 2026 19:31:10 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/f6f20c0b-b5ad-418d-9608-8fc4520d2c2d/media.mp3" length="21160776" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/1f550bee-f1b3-460e-9ea7-88af8f9d81e1/media.mp3" length="21160776" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1406</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -275,7 +275,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:963b7b837f159716a827e7d4caa4be770bf1e045245da20d502c5cf50af5e1a9</guid>
       <pubDate>Fri, 30 Oct 2026 19:05:17 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/9bae42a2-38c7-4736-b322-f00df7a4c69a/media.mp3" length="25101430" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/b293cbac-3eb1-4461-9064-f29d4d1d4bbc/media.mp3" length="25101430" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1635</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -287,7 +287,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:e68a0088bf69f2a03f5af4539d0cbb04d9453dbabe72b6923df2c32d48f0fd24</guid>
       <pubDate>Sun, 01 Nov 2026 11:52:15 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/6f139264-6268-4394-bdb6-ea421855a138/media.mp3" length="20909352" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/0c256c0f-2b32-451f-a363-e6c1220a3752/media.mp3" length="20909352" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1411</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -299,7 +299,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:f9e4e432adbfbcd5790b6c53aef9a02fa76c4758f30a95652f9b10d4c0901e06</guid>
       <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/ddcdf453-2191-4bca-aa01-d58ee7b307c9/media.mp3" length="35035103" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/33849c6e-9b94-4108-81d2-3f465f2983e6/media.mp3" length="35035103" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>2342</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -311,7 +311,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:802df617d7bfa101b3f6a81f130b2f48b029707ef7666f106afa617920294e17</guid>
       <pubDate>Tue, 03 Nov 2026 20:15:43 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/45a4a007-4486-47ca-a760-a5bb65e92af2/media.mp3" length="21340794" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/05c988b2-f7fa-49e0-95cb-7beded229e5c/media.mp3" length="21340794" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1371</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -323,7 +323,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:248791edfeb43126188366a588c0bd57d6057bf6e5809a6a150491a4d524866f</guid>
       <pubDate>Wed, 04 Nov 2026 19:57:20 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/e0e92362-1a80-4d1b-9494-35e9c7f1fc08/media.mp3" length="19441694" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/3fc9dd19-5783-4f9a-87c0-2d34e02fb58b/media.mp3" length="19441694" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1228</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -335,7 +335,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:d98f1ee9c5d61d2d9a2157fad009f226346e503047d338bf82256180d99d6861</guid>
       <pubDate>Thu, 05 Nov 2026 22:32:18 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/e8c903d3-0626-4797-af1b-64c2e569d3b8/media.mp3" length="20854090" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/cafa4b44-8166-4f42-8ad9-d548fc120ec6/media.mp3" length="20854090" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1350</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -347,7 +347,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:de289a6aaac9984259f1f657c68ef5fef8ba2efb67bd5646f2d751b403eae7a3</guid>
       <pubDate>Sat, 07 Nov 2026 00:24:27 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/5851fff8-a4f4-4d37-aa3d-49ba93a90042/media.mp3" length="25078070" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/0d11b1c5-0213-4cf4-b778-c6f3923c3227/media.mp3" length="25078070" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1606</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -359,7 +359,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:d290276668e4a008df558c640700e5814555d45fc9391d4fc5fee9d35276e127</guid>
       <pubDate>Sun, 08 Nov 2026 12:05:09 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/a599d771-3fe6-4456-910b-ab25bfd7f288/media.mp3" length="25600047" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/d3223370-80d8-4b47-9aef-180b1004f32e/media.mp3" length="25600047" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1685</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -371,7 +371,7 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:b54a440f239a632665f22b8ae751cb0187b62395e685242def2176245daa9d06</guid>
       <pubDate>Mon, 09 Nov 2026 19:34:01 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/7363f065-0dab-4fef-a2c2-39fb2a5f6ec0/media.mp3" length="21445115" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/b410d131-a791-42fc-a4b8-8685773a68c6/media.mp3" length="21445115" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1385</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -383,9 +383,21 @@
       <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
       <guid isPermaLink="false">urn:podcast-ad-free:dcf18f47f3f81aec6dabf173a1b727d982b591ade2916b0304e035250ad8b79c</guid>
       <pubDate>Tue, 10 Nov 2026 21:38:24 GMT</pubDate>
-      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/4ab05565-611f-4ee1-9dd0-fd34ae6ecdf6/media.mp3" length="23420639" type="audio/mpeg" />
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/0e3ee45a-2579-4d3b-a477-07831c27d931/media.mp3" length="23420639" type="audio/mpeg" />
       <itunes:author>Nathaniel Whittemore</itunes:author>
       <itunes:duration>1546</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-11-11 161603 - Wall Street Has No Idea What Anthropic Is Worth</title>
+      <description>&lt;p&gt;Anthropic is heading into its IPO with surging revenue, massive compute commitments, and a new productivity suite taking aim at Microsoft. NLW breaks down the competing bull and bear cases, why the valuation headlines are misleading, and what the offering could mean for the entire AI trade. In the headlines: Google releases Gemini 4 Carbon, Nvidia’s China scandal deepens, and OpenAI’s revenue surges.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Check out How We Got Here Ep. 3 - How Gambling on Everything From Our Phones Became Normal &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://open.spotify.com/episode/4OHJ8GCtbEoAcSHsDT2Byr?si=B7qP-oAGS6SNRoPEGXGC7A"&gt;⁠⁠https://open.spotify.com/episode/4OHJ8GCtbEoAcSHsDT2Byr?si=B7qP-oAGS6SNRoPEGXGC7A⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://podcasts.apple.com/us/podcast/how-gambling-on-everything-from-our-phones-became-normal/id6822359990?i=1000800740286"&gt;⁠⁠https://podcasts.apple.com/us/podcast/how-gambling-on-everything-from-our-phones-became-normal/id6822359990?i=1000800740286⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Learn More about the AI Champions Program: &lt;/strong&gt;&lt;a href="https://www.besuper.ai/champions"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.besuper.ai/champions⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Brought to you by:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;KPMG&lt;/strong&gt; – New KPMG and UT Austin research shows what separates “AI Amplifiers” from everyone else. Learn more at &lt;a href="https://kpmg.com/us/en/articles/2026/ai-redefining-career-success-empower-your-talent-thrive.html?utm_source=the_ai_daily_brief&amp;utm_medium=native&amp;utm_content=podcast&amp;utm_campaign=701dV00000aMKrPQAW&amp;cid=701dV00000aMKrPQAW"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/AIamplifiers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Granola&lt;/strong&gt; - The AI notepad for people in back-to-back meetings. Try it free &lt;a href="http://granola.ai/brief"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠granola.ai/brief⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;CData - &lt;/strong&gt;The gateway that makes AI more accurate, for less - &lt;a href="https://www.cdata.com/ai/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://cdata.ai/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Harbor - &lt;/strong&gt;Invest in the AI ecosystem. &lt;a href="https://www.harborcapital.com/aidaily"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.harborcapital.com/aidaily⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Section&lt;/strong&gt; - Section turns AI investment into workforce transformation and ROI - &lt;a href="https://www.sectionai.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.sectionai.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Blitzy - &lt;/strong&gt;Want to accelerate enterprise software development velocity by 5x? &lt;a href="https://blitzy.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://blitzy.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Robots &amp;amp; Pencils&lt;/strong&gt; - Cloud-native AI solutions that power results &lt;a href="https://robotsandpencils.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://robotsandpencils.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The AI Daily Brief helps you understand the most important news and discussions in AI. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Newsletter: &lt;/strong&gt;&lt;a href="https://aidailybrief.beehiiv.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://aidailybrief.beehiiv.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interested in sponsoring the show? &lt;/strong&gt;sponsors@aidailybrief.ai&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</description>
+      <itunes:summary>&lt;p&gt;Anthropic is heading into its IPO with surging revenue, massive compute commitments, and a new productivity suite taking aim at Microsoft. NLW breaks down the competing bull and bear cases, why the valuation headlines are misleading, and what the offering could mean for the entire AI trade. In the headlines: Google releases Gemini 4 Carbon, Nvidia’s China scandal deepens, and OpenAI’s revenue surges.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Check out How We Got Here Ep. 3 - How Gambling on Everything From Our Phones Became Normal &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://open.spotify.com/episode/4OHJ8GCtbEoAcSHsDT2Byr?si=B7qP-oAGS6SNRoPEGXGC7A"&gt;⁠⁠https://open.spotify.com/episode/4OHJ8GCtbEoAcSHsDT2Byr?si=B7qP-oAGS6SNRoPEGXGC7A⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://podcasts.apple.com/us/podcast/how-gambling-on-everything-from-our-phones-became-normal/id6822359990?i=1000800740286"&gt;⁠⁠https://podcasts.apple.com/us/podcast/how-gambling-on-everything-from-our-phones-became-normal/id6822359990?i=1000800740286⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Learn More about the AI Champions Program: &lt;/strong&gt;&lt;a href="https://www.besuper.ai/champions"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.besuper.ai/champions⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Brought to you by:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;KPMG&lt;/strong&gt; – New KPMG and UT Austin research shows what separates “AI Amplifiers” from everyone else. Learn more at &lt;a href="https://kpmg.com/us/en/articles/2026/ai-redefining-career-success-empower-your-talent-thrive.html?utm_source=the_ai_daily_brief&amp;utm_medium=native&amp;utm_content=podcast&amp;utm_campaign=701dV00000aMKrPQAW&amp;cid=701dV00000aMKrPQAW"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠kpmg.com/us/AIamplifiers⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Granola&lt;/strong&gt; - The AI notepad for people in back-to-back meetings. Try it free &lt;a href="http://granola.ai/brief"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠granola.ai/brief⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;strong&gt;CData - &lt;/strong&gt;The gateway that makes AI more accurate, for less - &lt;a href="https://www.cdata.com/ai/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://cdata.ai/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Harbor - &lt;/strong&gt;Invest in the AI ecosystem. &lt;a href="https://www.harborcapital.com/aidaily"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.harborcapital.com/aidaily⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Section&lt;/strong&gt; - Section turns AI investment into workforce transformation and ROI - &lt;a href="https://www.sectionai.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.sectionai.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Blitzy - &lt;/strong&gt;Want to accelerate enterprise software development velocity by 5x? &lt;a href="https://blitzy.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://blitzy.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Robots &amp;amp; Pencils&lt;/strong&gt; - Cloud-native AI solutions that power results &lt;a href="https://robotsandpencils.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://robotsandpencils.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The AI Daily Brief helps you understand the most important news and discussions in AI. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Newsletter: &lt;/strong&gt;&lt;a href="https://aidailybrief.beehiiv.com/"&gt;⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://aidailybrief.beehiiv.com/⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Interested in sponsoring the show? &lt;/strong&gt;sponsors@aidailybrief.ai&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;</itunes:summary>
+      <link>https://raw.githubusercontent.com/arjunluthra/private-podcast/main/ai-daily-brief-ad-free.xml</link>
+      <guid isPermaLink="false">urn:podcast-ad-free:433ca8ce3e733054caa018017efd8c5eb05abb3b0ef3c31371a132006639244d</guid>
+      <pubDate>Wed, 11 Nov 2026 21:16:03 GMT</pubDate>
+      <enclosure url="http://192.168.1.214:13378/audiobookshelf/feed/ai-daily-brief-ad-free/item/5fa351a0-d166-419c-96a5-ee71725c15c7/media.mp3" length="20220433" type="audio/mpeg" />
+      <itunes:author>Nathaniel Whittemore</itunes:author>
+      <itunes:duration>1288</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
